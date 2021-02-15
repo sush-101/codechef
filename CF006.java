@@ -20,7 +20,7 @@ Sample Input:
 3 1
 Sample Output:-
 152
-Explation:
+Explation::
 As all, the items can be picked, so maximum profit is equal to = 1 X 19 + 2 X 23 + 3 X 29 = 152*/
 import java.util.*;
 import java.util.stream.*;
