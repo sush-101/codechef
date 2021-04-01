@@ -69,6 +69,7 @@ public class Main {
                     }
                     ndp[i][j] = Math.max(dp[i][j],ndp[i][j]);
                 }
+                //an extra line
             }
             item_no++;
             //System.out.println("ndp");
